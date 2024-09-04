@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "BlackMyth Wukong",
+        "price": "$51.64",
+        "image": "../Image/Game1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Grand Theft Auto V",
+        "price": "$14.80",
+        "image": "../Image/Game2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "OverCooked 2",
+        "price": "$5.99",
+        "image": "../Image/Game3.jpg"
+    }
+]
